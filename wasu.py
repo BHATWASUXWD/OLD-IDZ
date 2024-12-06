@@ -9,7 +9,6 @@ print('\n []\033[1;32m INSTALLING MISSING MODLES...!')
 os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
 print('\n \033[1;36m[]\033[1;37m HANIA-XD🔥 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎.!')
 os.system('xdg-open https://chat.whatsapp.com/B7mE0gHOsC7Ei5XxoBoH9F')
-from bs4 import BeautifulSoup as sop
 try:
     from bs4 import BeautifulSoup as bsp
 except:
